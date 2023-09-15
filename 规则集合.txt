@@ -1,0 +1,37 @@
+64c77450fad61a20126e8d72 | 导航===请点击下面按钮进入&&btns=本群频道$$https://t.me/HatsuneMiku_39_suki$$初音官方频道$$https://t.me/cfm_miku
+
+64de243bfad61a2012a0c7c5 | cbk=select===根据个人需要，点击下面按钮选择下载，大部分都是git链接。&&btns=Clash$$cl$$まつり（Matsuri）$$Matsuri$$$猫ボックス（NekoBox）$$nekobox$$v2ray$$v2ray$$$SurfBoard$$SurfBoard$$Quantumult X$$https://quantumultx.org/$$$Shadowsocks$$shadowsocks$$Shadowrocket$$shadowrocket
+
+64de2442fad61a2012a0c7d5 | cbk=shadowsocks===Shadowsocks
+提示：直接选择第一个Assets，下载安装包就行。
+请在下面按钮选择平台和教程&&btns=Android$$https://github.com/shadowsocks/shadowsocks-android/releases$$使用教程$$https://shadowsockshelp.github.io/Shadowsocks/Android.html$$$Windows$$https://github.com/shadowsocks/shadowsocks-windows/releases$$使用教程$$https://shadowsockshelp.github.io/Shadowsocks/windows.html$$$iOS$$https://apps.apple.com/tw/app/shadowlink-shadowsocks-proxy/id1439686518$$使用教程$$https://shadowsockshelp.github.io/Shadowsocks/ios.html$$$Mac$$https://apps.apple.com/hk/app/shadowsocks/id1295053131?mt=12$$使用教程$$https://shadowsockshelp.github.io/Shadowsocks/mac.html$$$返回上一页$$select
+
+64de2448fad61a2012a0c7e2 | cbk=shadowrocket===Shadowrocket
+提示：直接选择第一个Release，下载压缩包就行。
+请在下面按钮选择平台和教程&&btns=Android$$https://github.com/Pawdroid/shadowrocket_for_android$$使用教程$$https://shadowsockshelp.github.io/Shadowsocks/Android.html$$$Windows$$https://github.com/Pawdroid/shadowrocket_for_windows/releases$$使用教程$$https://wiki.miyun.app/windows-Shadowsocks.html$$$iOS$$https://apps.apple.com/ca/app/shadowrocket/id932747118$$使用教程$$https://www.shadowrocket.vip/shadowrocket%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/ios%E5%88%A9%E5%99%A8%E5%B0%8F%E7%81%AB%E7%AE%ADshadowrocket%E5%B0%8F%E7%99%BD%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%E7%9A%84%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D.html$$$返回上一页$$select
+
+64de244efad61a2012a0c7e9 | cbk=v2ray===v2ray
+提示：直接选择第一个Assets，下载安装包就行。
+请在下面按钮选择平台和教程&&btns=Android$$https://github.com/2dust/v2rayNG/releases$$使用教程$$https://v2rayng.org/$$$Windows$$https://github.com/2dust/v2rayN/releases$$使用教程$$https://v2rayn.org/$$$返回上一页$$select
+
+64de2458fad61a2012a0c7f6 | cbk=SurfBoard===SurfBoard
+提示：如果有Google框架，可以选择 Google Play，没有就选择APK下载。
+请在下面按钮选择&&btns=SurfBoard$$https://manual.getsurfboard.com/$$使用教程$$https://wikibos.com/index.php/kb/surfboard/$$$返回上一页$$select
+
+64de245cfad61a2012a0c7fa | cbk=nekobox===猫ボックス
+提示：大多都是在Readme自述页面中查找并下载的，所以请留意。
+请在下面按钮选择平台和教程&&btns=Android$$https://github.com/MatsuriDayo/NekoBoxForAndroid$$Windows$$https://github.com/MatsuriDayo/nekoray$$$返回上一页$$select$$使用教程（电脑未找到）$$https://dears.me/archives/6/
+
+64de246afad61a2012a0c816 | cbk=Matsuri===まつり
+有安卓和电脑的，教程就找不到安卓相关的，到时候Miku会自己整一个教程的。另外，需要在Readme.md自述页面中 *下载 / Downloads* 点击 下载 或 Google Play 直接安装。
+请在下面按钮选择&&btns=点击下载$$https://github.com/MatsuriDayo/Matsuri$$使用教程$$https://matsuridayo.github.io/m-configuration/$$$返回上一页$$select
+
+64de24a5fad61a2012a0c8ac | (?i)(\b代理软件\b)===根据个人需要，点击下面按钮选择下载，大部分都是git链接。&&btns=Clash$$cl$$まつり（Matsuri）$$Matsuri$$$猫ボックス（NekoBox）$$nekobox$$v2ray$$v2ray$$$SurfBoard$$SurfBoard$$Quantumult X$$https://quantumultx.org/$$$Shadowsocks$$shadowsocks$$Shadowrocket$$shadowrocket
+
+64e0a01efad61a2012a6e92d | (?i)(傻逼|他(妈|媽)的|混蛋|日你(妈|媽)|蠢货|蠢貨|奶奶的|tmd|rnm|nnd)===text=$username哎哎哎，言谈举止文明，不准说脏话！&&mode=Markdown&&del=x=0、y=15
+
+64e2091cfad61a2012aa6c81 | \b中文\b===各种版本的语言包都在这里&&btns=点击查看$$https://t.me/HatsuneMiku_39_suki/4
+
+64e70cf6fad61a2012b3a143 | cbk=cl===Clash
+提示：一般选择*premium-arm64-v8a-release*（其实可以一个个试）。另外，下载Clash Meta请选择下面的*下载APK*，可直接安装使用。
+请在下面按钮选择平台和教程&&mode=Markdown&&btns=Android$$https://github.com/Kr328/ClashForAndroid/releases$$使用教程$$https://clashforandroid.org/$$$Windows$$https://github.com/Fndroid/clash_for_windows_pkg/releases$$使用教程$$https://clashforwindows.org/$$$Clash Meta$$https://f-droid.org/packages/com.github.metacubex.clash.meta/$$PC中文版$$https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases$$$返回上一页$$select
